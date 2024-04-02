@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Evgkl98
+- 👋 Hi, I’m Evgenii
 - 👀 I’m Junior Front-end Developer
 - 🌱 I’m currently learning React, React Native, TypeScript
 - 💞️ Glad to see you!
