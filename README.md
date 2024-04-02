@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Evgenii
 - 👀 I’m Junior Front-end Developer
-- 🌱 I’m currently learning React, React Native, TypeScript
 - 💞️ Glad to see you!
+- 🌱 I’m currently learning React, React Native, TypeScript
+- 🔧 My TechStack: HTML, CSS, JS, React
+
 
 <!---
 Evgkl98/Evgkl98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
