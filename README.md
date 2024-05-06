@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Evgenii
-- 👀 I’m Junior Front-end Developer
+- 👀 I’m Front-end Developer
 - 💞️ Glad to see you!
 - 🌱 I’m currently learning React, React Native, TypeScript
 - 🔧 My TechStack: HTML, CSS, JS, React
